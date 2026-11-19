@@ -1,0 +1,10 @@
+{
+  "name": "admin-system-audit",
+  "description": "Audit an existing admin dashboard against the system it actually runs",
+  "author": {
+    "name": "Mohammed Khaled Saleh AL-Majhali",
+    "url": "https://github.com/MohammedAlmajhali"
+  },
+  "homepage": "https://github.com/MohammedAlmajhali/admin-system-audit",
+  "license": "CC-BY-4.0"
+}

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use or adapt admin-system-audit, please credit it like this."
+title: "admin-system-audit"
+type: software
+authors:
+  - given-names: Mohammed Khaled Saleh
+    family-names: AL-Majhali
+    alias: MohammedAlmajhali
+    website: "https://github.com/MohammedAlmajhali"
+repository-code: "https://github.com/MohammedAlmajhali/admin-system-audit"
+license: CC-BY-4.0
+abstract: "A skill that audits an existing admin dashboard against the system architecture, workflows, API, roles, and the rendered interface, and reports before changing code."
+keywords:
+  - admin
+  - audit
+  - dashboard
+  - skill

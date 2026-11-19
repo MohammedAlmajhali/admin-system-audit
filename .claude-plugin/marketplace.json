@@ -1,0 +1,12 @@
+{
+  "name": "MohammedAlmajhali",
+  "description": "A skill that audits an admin dashboard against the system it actually runs",
+  "owner": { "name": "Mohammed Khaled Saleh AL-Majhali" },
+  "plugins": [
+    {
+      "name": "admin-system-audit",
+      "source": "./",
+      "description": "Audit an existing admin dashboard against the system it actually runs"
+    }
+  ]
+}
